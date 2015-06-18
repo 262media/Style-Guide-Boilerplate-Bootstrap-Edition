@@ -1,5 +1,5 @@
  <?php include_once('functions.php'); ?>
- <?php $project_name = "Project"; ?>
+ <?php $project_name = "Cosmos Viagens "; ?>
 <!DOCTYPE html>
 
 <head>
@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="css/bootstrap.css">
 
 <!-- Replace below stylesheet with your own stylesheet -->
-<link rel="stylesheet" href="css/theme.css">
+<link rel="stylesheet" href="../dist/styles/main-b7a5d692.css">
 </head>
 <body   data-spy="scroll" data-target=".navbar-default" data-offset="60" >
 <!-- Fixed navbar -->
