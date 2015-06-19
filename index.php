@@ -7,6 +7,7 @@
 <title><?php echo($project_name)?>Style Guide</title>
 <meta name="viewport" content="width=device-width">
 <!-- Style Guide Boilerplate Styles -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro">
 <link rel="stylesheet" href="css/styleguide.css">
 <link rel="stylesheet" href="css/bootstrap.css">
 
